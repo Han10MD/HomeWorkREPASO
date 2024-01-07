@@ -7,3 +7,11 @@ function laCajaDePandora(numero){
         return numero.toString(16);
       }
 }
+
+function ezequiel(){
+    return ({
+        nombre: 'ezequiel',
+        edad: 33,
+        nacionalidad: 'argentina'
+    })
+}
