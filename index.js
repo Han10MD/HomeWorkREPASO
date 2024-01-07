@@ -7,4 +7,5 @@ function laCajaDePandora(numero) {
     } else {
         return numero.toString(16);
     }
+    return numero
 }
