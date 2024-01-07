@@ -14,4 +14,5 @@ function ezequiel(){
         edad: 33,
         nacionalidad: 'argentina'
     })
+    
 }
